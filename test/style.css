@@ -1,0 +1,17 @@
+.markdown-body{
+  margin: 0 auto;
+  max-width: 980px;
+  min-width: 200px;
+}
+.markdon-body pre.flow-chart,
+.markdown-body pre.sequence-diagram,
+.markdown-body pre.graphviz,
+.markdown-body pre.mermaid,
+.markdown-body pre.abc {
+  text-align: center;
+  background-color: transparent !important;
+  border-radius: 0;
+  border: none;
+  white-space: pre;
+}
+
